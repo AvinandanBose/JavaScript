@@ -1,0 +1,10 @@
+var Myname = 'Avinandan Bose';
+var marks = 12;
+var a = 13.4;
+let b = 14.98;
+let c = 'take off';
+console.log(Myname);
+console.log(marks);
+console.log(a);
+console.log(b);
+console.log(c);
